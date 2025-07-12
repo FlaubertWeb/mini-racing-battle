@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "aula",
   "version": "1.0.0",
@@ -10,3 +11,17 @@
   "author": "",
   "license": "ISC"
 }
+=======
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+>>>>>>> de9660cc569ab9ea25707bc3494e7cb160f97cea
